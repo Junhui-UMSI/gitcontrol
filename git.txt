@@ -1,0 +1,217 @@
+Last login: Sun Nov 15 10:19:58 on console
+0587388812:~ junhui$ git version
+git version 2.6.2
+0587388812:~ junhui$ ls
+Applications	Downloads	Movies		Public
+Desktop		Dropbox		Music		Zip.R
+Documents	Library		Pictures	test
+0587388812:~ junhui$ Desktop
+-bash: Desktop: command not found
+0587388812:~ junhui$ cd Desktop
+0587388812:Desktop junhui$ ls
+2015_employment_report_web.pdf	git control
+539ExamStudyGuide.docx		javascriptgallery
+CPT.docx			kabacoff-R_in_action-2011.pdf
+Desktop				poltfolio copy
+ExtendingTemplates		potential response.docx
+EyeCenter_InterviewTranscripts	screen shot
+Junhui Li--SOIAR.pdf		templates
+Lecture Notes			test
+PythonQuickStart.pptx		~$ 544 Lab2.docx
+SI 539 Project Proposal.docx	~$543MidtermWritten.docx
+SI 544				~$543MidtermWrittenAnswers.docx
+SpaceShipGame			~$PythonQuickStart.pptx
+SpaceShipGame 2			~$cial informatics.docx
+SpaceShipGame.zip		~$dterm2011 (1).docx
+WeekSix-Arrays			~$formatin Access.docx
+codesfinal.zip			学习
+columbia_cpg15-16 copy.pdf	密大学习体会.pdf
+0587388812:Desktop junhui$ cd git control
+-bash: cd: git: No such file or directory
+0587388812:Desktop junhui$ cd git cintrol
+-bash: cd: git: No such file or directory
+0587388812:Desktop junhui$ ls
+2015_employment_report_web.pdf	git control
+539ExamStudyGuide.docx		javascriptgallery
+CPT.docx			kabacoff-R_in_action-2011.pdf
+Desktop				poltfolio copy
+ExtendingTemplates		potential response.docx
+EyeCenter_InterviewTranscripts	screen shot
+Junhui Li--SOIAR.pdf		templates
+Lecture Notes			test
+PythonQuickStart.pptx		~$ 544 Lab2.docx
+SI 539 Project Proposal.docx	~$543MidtermWritten.docx
+SI 544				~$543MidtermWrittenAnswers.docx
+SpaceShipGame			~$PythonQuickStart.pptx
+SpaceShipGame 2			~$cial informatics.docx
+SpaceShipGame.zip		~$dterm2011 (1).docx
+WeekSix-Arrays			~$formatin Access.docx
+codesfinal.zip			学习
+columbia_cpg15-16 copy.pdf	密大学习体会.pdf
+0587388812:Desktop junhui$ git control
+git: 'control' is not a git command. See 'git --help'.
+0587388812:Desktop junhui$ ls
+2015_employment_report_web.pdf	gitcontrol
+539ExamStudyGuide.docx		javascriptgallery
+CPT.docx			kabacoff-R_in_action-2011.pdf
+Desktop				poltfolio copy
+ExtendingTemplates		potential response.docx
+EyeCenter_InterviewTranscripts	screen shot
+Junhui Li--SOIAR.pdf		templates
+Lecture Notes			test
+PythonQuickStart.pptx		~$ 544 Lab2.docx
+SI 539 Project Proposal.docx	~$543MidtermWritten.docx
+SI 544				~$543MidtermWrittenAnswers.docx
+SpaceShipGame			~$PythonQuickStart.pptx
+SpaceShipGame 2			~$cial informatics.docx
+SpaceShipGame.zip		~$dterm2011 (1).docx
+WeekSix-Arrays			~$formatin Access.docx
+codesfinal.zip			学习
+columbia_cpg15-16 copy.pdf	密大学习体会.pdf
+0587388812:Desktop junhui$ gitcontrol
+-bash: gitcontrol: command not found
+0587388812:Desktop junhui$ gitcontrol init
+-bash: gitcontrol: command not found
+0587388812:Desktop junhui$ git init
+Initialized empty Git repository in /Users/junhui/Desktop/.git/
+0587388812:Desktop junhui$ git at file.txt
+git: 'at' is not a git command. See 'git --help'.
+
+Did you mean this?
+	tag
+0587388812:Desktop junhui$ Initial Commit
+-bash: Initial: command not found
+0587388812:Desktop junhui$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.localized
+	2015_employment_report_web.pdf
+	539ExamStudyGuide.docx
+	CPT.docx
+	Desktop/
+	ExtendingTemplates/
+	EyeCenter_InterviewTranscripts/
+	Junhui Li--SOIAR.pdf
+	Lecture Notes/
+	PythonQuickStart.pptx
+	SI 539 Project Proposal.docx
+	SI 544/
+	SpaceShipGame 2/
+	SpaceShipGame.zip
+	SpaceShipGame/
+	WeekSix-Arrays/
+	codesfinal.zip
+	columbia_cpg15-16 copy.pdf
+	gitcontrol/
+	javascriptgallery/
+	kabacoff-R_in_action-2011.pdf
+	poltfolio copy/
+	potential response.docx
+	screen shot/
+	templates/
+	test/
+	~$ 544 Lab2.docx
+	~$543MidtermWritten.docx
+	~$543MidtermWrittenAnswers.docx
+	~$PythonQuickStart.pptx
+	~$cial informatics.docx
+	~$dterm2011 (1).docx
+	~$formatin Access.docx
+	学习/
+	密大学习体会.pdf
+
+nothing added to commit but untracked files present (use "git add" to track)
+0587388812:Desktop junhui$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+0587388812:Desktop junhui$ git log
+fatal: your current branch 'master' does not have any commits yet
+0587388812:Desktop junhui$ git version
+git version 2.6.2
+0587388812:Desktop junhui$ ls
+2015_employment_report_web.pdf	gitcontrol
+539ExamStudyGuide.docx		javascriptgallery
+CPT.docx			kabacoff-R_in_action-2011.pdf
+Desktop				poltfolio copy
+ExtendingTemplates		potential response.docx
+EyeCenter_InterviewTranscripts	screen shot
+Junhui Li--SOIAR.pdf		templates
+Lecture Notes			test
+PythonQuickStart.pptx		~$ 544 Lab2.docx
+SI 539 Project Proposal.docx	~$543MidtermWritten.docx
+SI 544				~$543MidtermWrittenAnswers.docx
+SpaceShipGame			~$PythonQuickStart.pptx
+SpaceShipGame 2			~$cial informatics.docx
+SpaceShipGame.zip		~$dterm2011 (1).docx
+WeekSix-Arrays			~$formatin Access.docx
+codesfinal.zip			学习
+columbia_cpg15-16 copy.pdf	密大学习体会.pdf
+0587388812:Desktop junhui$ cd gitcontrol
+0587388812:gitcontrol junhui$ ls
+file.txt
+0587388812:gitcontrol junhui$ git init
+Initialized empty Git repository in /Users/junhui/Desktop/gitcontrol/.git/
+0587388812:gitcontrol junhui$ git statics
+git: 'statics' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+0587388812:gitcontrol junhui$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	file.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+0587388812:gitcontrol junhui$ git add file.txt
+0587388812:gitcontrol junhui$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   file.txt
+
+0587388812:gitcontrol junhui$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   file.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   file.txt
+
+0587388812:gitcontrol junhui$ git checkout
+fatal: You are on a branch yet to be born
+0587388812:gitcontrol junhui$ git add file.txt
+0587388812:gitcontrol junhui$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   file.txt
+
+0587388812:gitcontrol junhui$ git checkout
+fatal: You are on a branch yet to be born
+0587388812:gitcontrol junhui$ 
